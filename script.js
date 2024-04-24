@@ -107,7 +107,7 @@ function update() {
     context.fillText(score, 5, 45);
 
     if (gameOver) {
-        context.fillText("GAME OVER! (made by Viktor Rainski)", 5, 90);
+        context.fillText("GAME OVER! does it even work?", 5, 90);
     }
 }
 
